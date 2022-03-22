@@ -1,0 +1,886 @@
+2022/2/22:21-57-2.197: m_bTimeOutArrange  = False
+m_bTImeOutScene    = False
+m_nTotArranged     = 9
+m_fTimeTaken       = 98.30274
+m_fTimeLookValid   = 22.03095
+m_fTimeLookInvalid = 76.27187
+m_nGrabCount       = 23
+m_fMoveDistance    = 15.31964
+m_nObstacleTouch   = 2
+m_nFinBtnDown      = 0
+
+2022/2/22:22-37-4.399: m_bTimeOutArrange  = True
+m_bTImeOutScene    = False
+m_nTotArranged     = 9
+m_fTimeTaken       = 139.309
+m_fTimeLookValid   = 18.0138
+m_fTimeLookInvalid = 121.2951
+m_nGrabCount       = 26
+m_fMoveDistance    = 19.58862
+m_nObstacleTouch   = 1
+m_nFinBtnDown      = 0
+
+2022/2/22:22-37-4.401: eArrange      = LAMPObject_name   = LampbCleanable    = FalsebPositioned   = TruenGrabCount    = 0fGrabTime     = 0nPosiCount    = 0kor_name      = 램프
+
+2022/2/22:22-37-4.401: eArrange      = MOUTH_WASHObject_name   = MouthWashbCleanable    = FalsebPositioned   = TruenGrabCount    = 0fGrabTime     = 0nPosiCount    = 0kor_name      = 로션
+
+2022/2/22:22-37-4.401: eArrange      = TOY_HAMMERObject_name   = ToyHammerbCleanable    = FalsebPositioned   = TruenGrabCount    = 1fGrabTime     = 3.283406nPosiCount    = 0kor_name      = 뽕망치
+
+2022/2/22:22-37-4.401: eArrange      = TOY_APPLEObject_name   = ToyApplebCleanable    = TruebPositioned   = FalsenGrabCount    = 0fGrabTime     = 0nPosiCount    = 0kor_name      = 사과
+
+2022/2/22:22-37-4.401: eArrange      = TOY_BUNNYObject_name   = ToyBunnybCleanable    = FalsebPositioned   = TruenGrabCount    = 1fGrabTime     = 3.60375nPosiCount    = 0kor_name      = 토끼
+
+2022/2/22:22-37-4.402: eArrange      = TOY_BALLObject_name   = ToyBallbCleanable    = FalsebPositioned   = TruenGrabCount    = 5fGrabTime     = 16.29788nPosiCount    = 0kor_name      = 공
+
+2022/2/22:22-37-4.402: eArrange      = TOY_CAR2Object_name   = ToyCar2bCleanable    = TruebPositioned   = TruenGrabCount    = 2fGrabTime     = 3.680822nPosiCount    = 1kor_name      = 자동차2
+
+2022/2/22:22-37-4.402: eArrange      = PANTS2Object_name   = Pants2bCleanable    = TruebPositioned   = TruenGrabCount    = 1fGrabTime     = 9.31485nPosiCount    = 1kor_name      = 바지2
+
+2022/2/22:22-37-4.402: eArrange      = BOOK3Object_name   = Book3bCleanable    = TruebPositioned   = TruenGrabCount    = 1fGrabTime     = 2.261671nPosiCount    = 1kor_name      = 책3
+
+2022/2/22:22-37-4.402: eArrange      = TOY_CAR1Object_name   = ToyCar1bCleanable    = TruebPositioned   = TruenGrabCount    = 1fGrabTime     = 2.263457nPosiCount    = 1kor_name      = 자동차1
+
+2022/2/22:22-37-4.403: eArrange      = TOY_GUNObject_name   = ToyGunbCleanable    = TruebPositioned   = TruenGrabCount    = 1fGrabTime     = 1.705611nPosiCount    = 1kor_name      = 총
+
+2022/2/22:22-37-4.403: eArrange      = PANTS1Object_name   = Pants1bCleanable    = TruebPositioned   = TruenGrabCount    = 1fGrabTime     = 1.196319nPosiCount    = 1kor_name      = 바지1
+
+2022/2/22:22-37-4.403: eArrange      = BOOK2Object_name   = Book2bCleanable    = TruebPositioned   = TruenGrabCount    = 1fGrabTime     = 3.661043nPosiCount    = 1kor_name      = 책2
+
+2022/2/22:22-37-4.403: eArrange      = BOXObject_name   = BoxbCleanable    = FalsebPositioned   = TruenGrabCount    = 2fGrabTime     = 1.076532nPosiCount    = 1kor_name      = 박스
+
+2022/2/22:22-37-4.403: eArrange      = GAME_PADObject_name   = GamePadbCleanable    = FalsebPositioned   = TruenGrabCount    = 2fGrabTime     = 1.464206nPosiCount    = 2kor_name      = 게임패드
+
+2022/2/22:22-37-4.403: eArrange      = GLOBEObject_name   = GlobebCleanable    = FalsebPositioned   = TruenGrabCount    = 2fGrabTime     = 1.32777nPosiCount    = 2kor_name      = 지구본
+
+2022/2/22:22-37-4.404: eArrange      = PANTS3Object_name   = Pants3bCleanable    = TruebPositioned   = TruenGrabCount    = 2fGrabTime     = 4.533597nPosiCount    = 1kor_name      = 바지3
+
+2022/2/22:22-37-4.404: eArrange      = BOOK1Object_name   = Book1bCleanable    = TruebPositioned   = TruenGrabCount    = 2fGrabTime     = 4.859431nPosiCount    = 1kor_name      = 책1
+
+2022/2/23:0-32-51.359: m_bTimeOutArrange= False
+m_bTImeOutScene= False
+m_nTotArranged= 9
+m_fTimeTaken= 98.42319
+m_fTimeLookValid= 9.752337
+m_fTimeLookInvalid= 88.67096
+m_nGrabCount= 9
+m_fMoveDistance= 16.60769
+m_nObstacleTouch= 0
+m_nFinBtnDown= 0
+
+2022/2/23:0-32-51.360: eArrange= BOX, Object_name= Box, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 박스, 
+
+2022/2/23:0-32-51.360: eArrange= LAMP, Object_name= Lamp, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 램프, 
+
+2022/2/23:0-32-51.361: eArrange= GAME_PAD, Object_name= GamePad, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 게임패드, 
+
+2022/2/23:0-32-51.361: eArrange= GLOBE, Object_name= Globe, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 지구본, 
+
+2022/2/23:0-32-51.361: eArrange= MOUTH_WASH, Object_name= MouthWash, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 로션, 
+
+2022/2/23:0-32-51.361: eArrange= TOY_HAMMER, Object_name= ToyHammer, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 뽕망치, 
+
+2022/2/23:0-32-51.362: eArrange= TOY_APPLE, Object_name= ToyApple, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 4.036238, nPosiCount = 1, kor_name= 사과, 
+
+2022/2/23:0-32-51.362: eArrange= TOY_CAR1, Object_name= ToyCar1, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 1.304182, nPosiCount = 1, kor_name= 자동차1, 
+
+2022/2/23:0-32-51.362: eArrange= TOY_CAR2, Object_name= ToyCar2, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 2.699952, nPosiCount = 1, kor_name= 자동차2, 
+
+2022/2/23:0-32-51.362: eArrange= TOY_GUN, Object_name= ToyGun, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 1.71024, nPosiCount = 1, kor_name= 총, 
+
+2022/2/23:0-32-51.362: eArrange= TOY_BALL, Object_name= ToyBall, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 공, 
+
+2022/2/23:0-32-51.362: eArrange= TOY_BUNNY, Object_name= ToyBunny, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 토끼, 
+
+2022/2/23:0-32-51.363: eArrange= BOOK1, Object_name= Book1, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 3.90212, nPosiCount = 1, kor_name= 책1, 
+
+2022/2/23:0-32-51.363: eArrange= BOOK2, Object_name= Book2, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 2.562724, nPosiCount = 1, kor_name= 책2, 
+
+2022/2/23:0-32-51.363: eArrange= BOOK3, Object_name= Book3, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 2.280409, nPosiCount = 1, kor_name= 책3, 
+
+2022/2/23:0-32-51.363: eArrange= PANTS1, Object_name= Pants1, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 2.061092, nPosiCount = 1, kor_name= 바지1, 
+
+2022/2/23:0-32-51.363: eArrange= PANTS2, Object_name= Pants2, bCleanable= True, bPositioned= False, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 바지2, 
+
+2022/2/23:0-32-51.363: eArrange= PANTS3, Object_name= Pants3, bCleanable= True, bPositioned= False, nGrabCount= 1, fGrabTime= 1.629959, nPosiCount = 1, kor_name= 바지3, 
+
+2022/2/24:15-12-27.577: m_bTimeOutArrange= False
+m_bTImeOutScene= False
+m_nTotArranged= 9
+m_fTimeTaken= 72.172
+m_fTimeLookValid= 10.64676
+m_fTimeLookInvalid= 61.52525
+m_nGrabCount= 10
+m_fMoveDistance= 8.144037
+m_nObstacleTouch= 0
+m_nFinBtnDown= 0
+
+2022/2/24:15-12-27.578: eArrange= BOX, Object_name= Box, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 박스, 
+
+2022/2/24:15-12-27.579: eArrange= LAMP, Object_name= Lamp, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 램프, 
+
+2022/2/24:15-12-27.579: eArrange= GAME_PAD, Object_name= GamePad, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 게임패드, 
+
+2022/2/24:15-12-27.579: eArrange= GLOBE, Object_name= Globe, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 지구본, 
+
+2022/2/24:15-12-27.579: eArrange= MOUTH_WASH, Object_name= MouthWash, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 로션, 
+
+2022/2/24:15-12-27.580: eArrange= TOY_HAMMER, Object_name= ToyHammer, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 뽕망치, 
+
+2022/2/24:15-12-27.580: eArrange= TOY_APPLE, Object_name= ToyApple, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 1.896034, nPosiCount = 1, kor_name= 장난감사과, 
+
+2022/2/24:15-12-27.580: eArrange= TOY_CAR1, Object_name= ToyCar1, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 2.240057, nPosiCount = 1, kor_name= 장난감차, 
+
+2022/2/24:15-12-27.580: eArrange= TOY_CAR2, Object_name= ToyCar2, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 자동차2, 
+
+2022/2/24:15-12-27.580: eArrange= TOY_GUN, Object_name= ToyGun, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 2.130591, nPosiCount = 1, kor_name= 장난감물총, 
+
+2022/2/24:15-12-27.580: eArrange= TOY_BALL, Object_name= ToyBall, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 공, 
+
+2022/2/24:15-12-27.581: eArrange= TOY_BUNNY, Object_name= ToyBunny, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 토끼, 
+
+2022/2/24:15-12-27.581: eArrange= BOOK1, Object_name= Book1, bCleanable= True, bPositioned= True, nGrabCount= 2, fGrabTime= 3.984217, nPosiCount = 1, kor_name= 녹색책1, 
+
+2022/2/24:15-12-27.581: eArrange= BOOK2, Object_name= Book2, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 2.770487, nPosiCount = 1, kor_name= 노란책, 
+
+2022/2/24:15-12-27.581: eArrange= BOOK3, Object_name= Book3, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 1.068332, nPosiCount = 1, kor_name= 녹색책2, 
+
+2022/2/24:15-12-27.581: eArrange= PANTS1, Object_name= Pants1, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 4.874165, nPosiCount = 1, kor_name= 바지1, 
+
+2022/2/24:15-12-27.581: eArrange= PANTS2, Object_name= Pants2, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 7.474618, nPosiCount = 1, kor_name= 바지2, 
+
+2022/2/24:15-12-27.582: eArrange= PANTS3, Object_name= Pants3, bCleanable= True, bPositioned= False, nGrabCount= 1, fGrabTime= 2.801303, nPosiCount = 1, kor_name= 노란반바지, 
+
+2022/2/24:15-34-12.469: m_bTimeOutArrange= False
+m_bTImeOutScene= False
+m_nTotArranged= 9
+m_fTimeTaken= 105.6687
+m_fTimeLookValid= 20.293
+m_fTimeLookInvalid= 85.37573
+m_nGrabCount= 15
+m_fMoveDistance= 13.33189
+m_nObstacleTouch= 0
+m_nFinBtnDown= 0
+
+2022/2/24:15-34-12.470: eArrange= BOX, Object_name= Box, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 박스, 
+
+2022/2/24:15-34-12.471: eArrange= LAMP, Object_name= Lamp, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 램프, 
+
+2022/2/24:15-34-12.471: eArrange= GAME_PAD, Object_name= GamePad, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 게임패드, 
+
+2022/2/24:15-34-12.471: eArrange= GLOBE, Object_name= Globe, bCleanable= False, bPositioned= True, nGrabCount= 3, fGrabTime= 3.572605, nPosiCount = 2, kor_name= 지구본, 
+
+2022/2/24:15-34-12.471: eArrange= MOUTH_WASH, Object_name= MouthWash, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 로션, 
+
+2022/2/24:15-34-12.472: eArrange= TOY_HAMMER, Object_name= ToyHammer, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 뽕망치, 
+
+2022/2/24:15-34-12.472: eArrange= TOY_APPLE, Object_name= ToyApple, bCleanable= True, bPositioned= True, nGrabCount= 2, fGrabTime= 2.966487, nPosiCount = 1, kor_name= 장난감사과, 
+
+2022/2/24:15-34-12.472: eArrange= TOY_CAR1, Object_name= ToyCar1, bCleanable= True, bPositioned= True, nGrabCount= 2, fGrabTime= 23.75083, nPosiCount = 1, kor_name= 장난감차, 
+
+2022/2/24:15-34-12.472: eArrange= TOY_CAR2, Object_name= ToyCar2, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 자동차2, 
+
+2022/2/24:15-34-12.472: eArrange= TOY_GUN, Object_name= ToyGun, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 3.605625, nPosiCount = 1, kor_name= 장난감물총, 
+
+2022/2/24:15-34-12.472: eArrange= TOY_BALL, Object_name= ToyBall, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 공, 
+
+2022/2/24:15-34-12.473: eArrange= TOY_BUNNY, Object_name= ToyBunny, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 토끼, 
+
+2022/2/24:15-34-12.473: eArrange= BOOK1, Object_name= Book1, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 1.974875, nPosiCount = 1, kor_name= 녹색책1, 
+
+2022/2/24:15-34-12.473: eArrange= BOOK2, Object_name= Book2, bCleanable= True, bPositioned= True, nGrabCount= 2, fGrabTime= 3.118676, nPosiCount = 1, kor_name= 노란책, 
+
+2022/2/24:15-34-12.473: eArrange= BOOK3, Object_name= Book3, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 1.029603, nPosiCount = 1, kor_name= 녹색책2, 
+
+2022/2/24:15-34-12.473: eArrange= PANTS1, Object_name= Pants1, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 1.866472, nPosiCount = 1, kor_name= 바지1, 
+
+2022/2/24:15-34-12.473: eArrange= PANTS2, Object_name= Pants2, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 4.400229, nPosiCount = 1, kor_name= 바지2, 
+
+2022/2/24:15-34-12.474: eArrange= PANTS3, Object_name= Pants3, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 2.674069, nPosiCount = 1, kor_name= 노란반바지, 
+
+2022/2/26:18-49-26.353: m_bTimeOutArrange= False
+m_bTImeOutScene= False
+m_nTotArranged= 9
+m_fTimeTaken= 103.1836
+m_fTimeLookValid= 13.94049
+m_fTimeLookInvalid= 89.24308
+m_nGrabCount= 16
+m_fMoveDistance= 31.60906
+m_nObstacleTouch= 1
+m_nFinBtnDown= 0
+
+2022/2/26:18-49-26.355: eArrange= BOX, Object_name= Box, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 박스, 
+
+2022/2/26:18-49-26.355: eArrange= LAMP, Object_name= Lamp, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 램프, 
+
+2022/2/26:18-49-26.356: eArrange= GAME_PAD, Object_name= GamePad, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 게임패드, 
+
+2022/2/26:18-49-26.356: eArrange= GLOBE, Object_name= Globe, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 지구본, 
+
+2022/2/26:18-49-26.356: eArrange= MOUTH_WASH, Object_name= MouthWash, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 로션, 
+
+2022/2/26:18-49-26.356: eArrange= TOY_HAMMER, Object_name= ToyHammer, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 뽕망치, 
+
+2022/2/26:18-49-26.356: eArrange= TOY_APPLE, Object_name= ToyApple, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 1.935885, nPosiCount = 1, kor_name= 장난감사과, 
+
+2022/2/26:18-49-26.357: eArrange= TOY_CAR1, Object_name= ToyCar1, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 1.530607, nPosiCount = 1, kor_name= 장난감차, 
+
+2022/2/26:18-49-26.357: eArrange= TOY_CAR2, Object_name= ToyCar2, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 자동차2, 
+
+2022/2/26:18-49-26.357: eArrange= TOY_GUN, Object_name= ToyGun, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 1.806799, nPosiCount = 1, kor_name= 장난감물총, 
+
+2022/2/26:18-49-26.357: eArrange= TOY_BALL, Object_name= ToyBall, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 공, 
+
+2022/2/26:18-49-26.357: eArrange= TOY_BUNNY, Object_name= ToyBunny, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 토끼, 
+
+2022/2/26:18-49-26.358: eArrange= BOOK1, Object_name= Book1, bCleanable= True, bPositioned= False, nGrabCount= 1, fGrabTime= 5.958302, nPosiCount = 0, kor_name= 녹색책1, 
+
+2022/2/26:18-49-26.358: eArrange= BOOK2, Object_name= Book2, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 2.297508, nPosiCount = 1, kor_name= 노란책, 
+
+2022/2/26:18-49-26.358: eArrange= BOOK3, Object_name= Book3, bCleanable= True, bPositioned= True, nGrabCount= 2, fGrabTime= 2.771621, nPosiCount = 1, kor_name= 녹색책2, 
+
+2022/2/26:18-49-26.358: eArrange= PANTS1, Object_name= Pants1, bCleanable= False, bPositioned= False, nGrabCount= 2, fGrabTime= 2.799613, nPosiCount = 1, kor_name= 바지1, 
+
+2022/2/26:18-49-26.358: eArrange= PANTS2, Object_name= Pants2, bCleanable= True, bPositioned= False, nGrabCount= 3, fGrabTime= 5.569517, nPosiCount = 2, kor_name= 바지2, 
+
+2022/2/26:18-49-26.358: eArrange= PANTS3, Object_name= Pants3, bCleanable= True, bPositioned= False, nGrabCount= 3, fGrabTime= 4.58125, nPosiCount = 2, kor_name= 노란반바지, 
+
+2022/2/26:18-51-38.22: m_bTimeOutArrange= False
+m_bTImeOutScene= False
+m_nTotArranged= 8
+m_fTimeTaken= 58.48922
+m_fTimeLookValid= 12.21743
+m_fTimeLookInvalid= 46.27179
+m_nGrabCount= 9
+m_fMoveDistance= 15.66077
+m_nObstacleTouch= 0
+m_nFinBtnDown= 0
+
+2022/2/26:18-51-38.23: eArrange= BOX, Object_name= Box, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 박스, 
+
+2022/2/26:18-51-38.24: eArrange= LAMP, Object_name= Lamp, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 램프, 
+
+2022/2/26:18-51-38.24: eArrange= GAME_PAD, Object_name= GamePad, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 게임패드, 
+
+2022/2/26:18-51-38.24: eArrange= GLOBE, Object_name= Globe, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 지구본, 
+
+2022/2/26:18-51-38.24: eArrange= MOUTH_WASH, Object_name= MouthWash, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 로션, 
+
+2022/2/26:18-51-38.24: eArrange= TOY_HAMMER, Object_name= ToyHammer, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 뽕망치, 
+
+2022/2/26:18-51-38.24: eArrange= TOY_APPLE, Object_name= ToyApple, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 1.628566, nPosiCount = 1, kor_name= 장난감사과, 
+
+2022/2/26:18-51-38.25: eArrange= TOY_CAR1, Object_name= ToyCar1, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 2.601829, nPosiCount = 1, kor_name= 장난감차, 
+
+2022/2/26:18-51-38.25: eArrange= TOY_CAR2, Object_name= ToyCar2, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 자동차2, 
+
+2022/2/26:18-51-38.25: eArrange= TOY_GUN, Object_name= ToyGun, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 2.044946, nPosiCount = 1, kor_name= 장난감물총, 
+
+2022/2/26:18-51-38.25: eArrange= TOY_BALL, Object_name= ToyBall, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 공, 
+
+2022/2/26:18-51-38.25: eArrange= TOY_BUNNY, Object_name= ToyBunny, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 토끼, 
+
+2022/2/26:18-51-38.25: eArrange= BOOK1, Object_name= Book1, bCleanable= True, bPositioned= True, nGrabCount= 2, fGrabTime= 5.208227, nPosiCount = 1, kor_name= 녹색책1, 
+
+2022/2/26:18-51-38.25: eArrange= BOOK2, Object_name= Book2, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 1.197148, nPosiCount = 1, kor_name= 노란책, 
+
+2022/2/26:18-51-38.25: eArrange= BOOK3, Object_name= Book3, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 4.16466, nPosiCount = 1, kor_name= 녹색책2, 
+
+2022/2/26:18-51-38.26: eArrange= PANTS1, Object_name= Pants1, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 바지1, 
+
+2022/2/26:18-51-38.26: eArrange= PANTS2, Object_name= Pants2, bCleanable= True, bPositioned= False, nGrabCount= 1, fGrabTime= 2.172677, nPosiCount = 1, kor_name= 바지2, 
+
+2022/2/26:18-51-38.26: eArrange= PANTS3, Object_name= Pants3, bCleanable= True, bPositioned= False, nGrabCount= 1, fGrabTime= 1.71239, nPosiCount = 1, kor_name= 노란반바지, 
+
+2022/2/26:18-54-17.498: m_bTimeOutArrange= False
+m_bTImeOutScene= False
+m_nTotArranged= 8
+m_fTimeTaken= 106.9708
+m_fTimeLookValid= 29.78419
+m_fTimeLookInvalid= 77.18646
+m_nGrabCount= 20
+m_fMoveDistance= 16.65372
+m_nObstacleTouch= 0
+m_nFinBtnDown= 0
+
+2022/2/26:18-54-17.499: eArrange= BOX, Object_name= Box, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 박스, 
+
+2022/2/26:18-54-17.499: eArrange= LAMP, Object_name= Lamp, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 램프, 
+
+2022/2/26:18-54-17.499: eArrange= GAME_PAD, Object_name= GamePad, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 게임패드, 
+
+2022/2/26:18-54-17.500: eArrange= GLOBE, Object_name= Globe, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 지구본, 
+
+2022/2/26:18-54-17.500: eArrange= MOUTH_WASH, Object_name= MouthWash, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 로션, 
+
+2022/2/26:18-54-17.500: eArrange= TOY_HAMMER, Object_name= ToyHammer, bCleanable= False, bPositioned= True, nGrabCount= 2, fGrabTime= 3.398515, nPosiCount = 0, kor_name= 뽕망치, 
+
+2022/2/26:18-54-17.500: eArrange= TOY_APPLE, Object_name= ToyApple, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 3.060217, nPosiCount = 1, kor_name= 장난감사과, 
+
+2022/2/26:18-54-17.500: eArrange= TOY_CAR1, Object_name= ToyCar1, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 3.675442, nPosiCount = 1, kor_name= 장난감차, 
+
+2022/2/26:18-54-17.501: eArrange= TOY_CAR2, Object_name= ToyCar2, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 자동차2, 
+
+2022/2/26:18-54-17.501: eArrange= TOY_GUN, Object_name= ToyGun, bCleanable= True, bPositioned= True, nGrabCount= 4, fGrabTime= 5.543669, nPosiCount = 1, kor_name= 장난감물총, 
+
+2022/2/26:18-54-17.501: eArrange= TOY_BALL, Object_name= ToyBall, bCleanable= False, bPositioned= True, nGrabCount= 1, fGrabTime= 2.261945, nPosiCount = 0, kor_name= 공, 
+
+2022/2/26:18-54-17.501: eArrange= TOY_BUNNY, Object_name= ToyBunny, bCleanable= False, bPositioned= True, nGrabCount= 1, fGrabTime= 2.505146, nPosiCount = 0, kor_name= 토끼, 
+
+2022/2/26:18-54-17.501: eArrange= BOOK1, Object_name= Book1, bCleanable= True, bPositioned= False, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 녹색책1, 
+
+2022/2/26:18-54-17.502: eArrange= BOOK2, Object_name= Book2, bCleanable= True, bPositioned= False, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 노란책, 
+
+2022/2/26:18-54-17.502: eArrange= BOOK3, Object_name= Book3, bCleanable= True, bPositioned= False, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 녹색책2, 
+
+2022/2/26:18-54-17.502: eArrange= PANTS1, Object_name= Pants1, bCleanable= False, bPositioned= False, nGrabCount= 1, fGrabTime= 2.810786, nPosiCount = 0, kor_name= 바지1, 
+
+2022/2/26:18-54-17.502: eArrange= PANTS2, Object_name= Pants2, bCleanable= True, bPositioned= False, nGrabCount= 3, fGrabTime= 5.386893, nPosiCount = 0, kor_name= 바지2, 
+
+2022/2/26:18-54-17.502: eArrange= PANTS3, Object_name= Pants3, bCleanable= True, bPositioned= False, nGrabCount= 6, fGrabTime= 15.54793, nPosiCount = 5, kor_name= 노란반바지, 
+
+2022/2/27:20-1-23.614: m_nTotArrangeable= 13
+m_nTotCleanable= 8
+m_nTotCleaned= 8
+m_nTotPositoned= 13
+m_nTotGrabCount= 8
+m_nTotGrabTime= 20.28384
+m_nTotPosiCount= 8
+m_bTimeOutArrange= False
+m_bTImeOutScene= False
+m_fTimeTaken= 62.45374
+m_fTimeLookValid= 7.231873
+m_fTimeLookInvalid= 55.2219
+m_fMoveDistance= 13.36148
+m_nObstacleTouch= 0
+m_nFinBtnDown= 0
+
+2022/2/27:20-1-23.615: eArrange= TOY_HAMMER, Object_name= ToyHammer, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 뽕망치, 
+
+2022/2/27:20-1-23.616: eArrange= TOY_APPLE, Object_name= ToyApple, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 2.799965, nPosiCount = 1, kor_name= 장난감사과, 
+
+2022/2/27:20-1-23.616: eArrange= TOY_CAR1, Object_name= ToyCar1, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 2.238132, nPosiCount = 1, kor_name= 장난감차, 
+
+2022/2/27:20-1-23.616: eArrange= TOY_CAR2, Object_name= ToyCar2, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 자동차2, 
+
+2022/2/27:20-1-23.616: eArrange= TOY_GUN, Object_name= ToyGun, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 1.838107, nPosiCount = 1, kor_name= 장난감물총, 
+
+2022/2/27:20-1-23.616: eArrange= TOY_BALL, Object_name= ToyBall, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 공, 
+
+2022/2/27:20-1-23.617: eArrange= TOY_BUNNY, Object_name= ToyBunny, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 토끼, 
+
+2022/2/27:20-1-23.617: eArrange= BOOK1, Object_name= Book1, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 2.909992, nPosiCount = 1, kor_name= 녹색책1, 
+
+2022/2/27:20-1-23.617: eArrange= BOOK2, Object_name= Book2, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 1.893194, nPosiCount = 1, kor_name= 노란책, 
+
+2022/2/27:20-1-23.617: eArrange= BOOK3, Object_name= Book3, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 1.728873, nPosiCount = 1, kor_name= 녹색책2, 
+
+2022/2/27:20-1-23.617: eArrange= PANTS1, Object_name= Pants1, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 바지1, 
+
+2022/2/27:20-1-23.617: eArrange= PANTS2, Object_name= Pants2, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 4.10587, nPosiCount = 1, kor_name= 바지2, 
+
+2022/2/27:20-1-23.618: eArrange= PANTS3, Object_name= Pants3, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 2.769706, nPosiCount = 1, kor_name= 노란반바지, 
+
+2022/2/27:20-3-20.461: m_nTotArrangeable= 13
+m_nTotCleanable= 8
+m_nTotCleaned= 8
+m_nTotPositoned= 13
+m_nTotGrabCount= 9
+m_nTotGrabTime= 34.56428
+m_nTotPosiCount= 8
+m_bTimeOutArrange= False
+m_bTImeOutScene= False
+m_fTimeTaken= 69.34591
+m_fTimeLookValid= 6.213403
+m_fTimeLookInvalid= 63.13252
+m_fMoveDistance= 12.01597
+m_nObstacleTouch= 0
+m_nFinBtnDown= 0
+
+2022/2/27:20-3-20.462: eArrange= TOY_HAMMER, Object_name= ToyHammer, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 뽕망치, 
+
+2022/2/27:20-3-20.463: eArrange= TOY_APPLE, Object_name= ToyApple, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 3.604918, nPosiCount = 1, kor_name= 장난감사과, 
+
+2022/2/27:20-3-20.463: eArrange= TOY_CAR1, Object_name= ToyCar1, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 4.370784, nPosiCount = 1, kor_name= 장난감차, 
+
+2022/2/27:20-3-20.463: eArrange= TOY_CAR2, Object_name= ToyCar2, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 자동차2, 
+
+2022/2/27:20-3-20.463: eArrange= TOY_GUN, Object_name= ToyGun, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 4.106154, nPosiCount = 1, kor_name= 장난감물총, 
+
+2022/2/27:20-3-20.463: eArrange= TOY_BALL, Object_name= ToyBall, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 공, 
+
+2022/2/27:20-3-20.463: eArrange= TOY_BUNNY, Object_name= ToyBunny, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 토끼, 
+
+2022/2/27:20-3-20.464: eArrange= BOOK1, Object_name= Book1, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 10.71918, nPosiCount = 1, kor_name= 녹색책1, 
+
+2022/2/27:20-3-20.464: eArrange= BOOK2, Object_name= Book2, bCleanable= True, bPositioned= True, nGrabCount= 2, fGrabTime= 2.504531, nPosiCount = 1, kor_name= 노란책, 
+
+2022/2/27:20-3-20.464: eArrange= BOOK3, Object_name= Book3, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 3.076469, nPosiCount = 1, kor_name= 녹색책2, 
+
+2022/2/27:20-3-20.464: eArrange= PANTS1, Object_name= Pants1, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 바지1, 
+
+2022/2/27:20-3-20.464: eArrange= PANTS2, Object_name= Pants2, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 2.978506, nPosiCount = 1, kor_name= 바지2, 
+
+2022/2/27:20-3-20.465: eArrange= PANTS3, Object_name= Pants3, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 3.203738, nPosiCount = 1, kor_name= 노란반바지, 
+
+2022/2/27:20-54-58.656: m_nTotArrangeable= 13
+m_nTotCleanable= 8
+m_nTotCleaned= 7
+m_nTotPositoned= 12
+m_nTotGrabCount= 8
+m_nTotGrabTime= 31.68885
+m_nTotPosiCount= 8
+m_bTimeOutArrange= False
+m_bTImeOutScene= False
+m_fTimeTaken= 65.25265
+m_fTimeLookValid= 18.31055
+m_fTimeLookInvalid= 46.94218
+m_fMoveDistance= 11.67557
+m_nObstacleTouch= 0
+m_nFinBtnDown= 0
+
+2022/2/27:20-54-58.657: eArrange= TOY_HAMMER, Object_name= ToyHammer, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 뽕망치, 
+
+2022/2/27:20-54-58.657: eArrange= TOY_APPLE, Object_name= ToyApple, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 2.043771, nPosiCount = 1, kor_name= 장난감사과, 
+
+2022/2/27:20-54-58.658: eArrange= TOY_CAR1, Object_name= ToyCar1, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 2.967054, nPosiCount = 1, kor_name= 장난감차, 
+
+2022/2/27:20-54-58.658: eArrange= TOY_CAR2, Object_name= ToyCar2, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 자동차2, 
+
+2022/2/27:20-54-58.658: eArrange= TOY_GUN, Object_name= ToyGun, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 3.035598, nPosiCount = 1, kor_name= 장난감물총, 
+
+2022/2/27:20-54-58.658: eArrange= TOY_BALL, Object_name= ToyBall, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 공, 
+
+2022/2/27:20-54-58.658: eArrange= TOY_BUNNY, Object_name= ToyBunny, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 토끼, 
+
+2022/2/27:20-54-58.658: eArrange= BOOK1, Object_name= Book1, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 3.15573, nPosiCount = 1, kor_name= 녹색책1, 
+
+2022/2/27:20-54-58.659: eArrange= BOOK2, Object_name= Book2, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 2.320592, nPosiCount = 1, kor_name= 노란책, 
+
+2022/2/27:20-54-58.659: eArrange= BOOK3, Object_name= Book3, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 1.433232, nPosiCount = 1, kor_name= 녹색책2, 
+
+2022/2/27:20-54-58.659: eArrange= PANTS1, Object_name= Pants1, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 바지1, 
+
+2022/2/27:20-54-58.659: eArrange= PANTS2, Object_name= Pants2, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 13.22736, nPosiCount = 1, kor_name= 바지2, 
+
+2022/2/27:20-54-58.659: eArrange= PANTS3, Object_name= Pants3, bCleanable= True, bPositioned= False, nGrabCount= 1, fGrabTime= 3.505511, nPosiCount = 1, kor_name= 노란반바지, 
+
+2022/2/27:21-16-42.759: m_nTotArrangeable= 13
+m_nTotCleanable= 8
+m_nTotCleaned= 7
+m_nTotPositoned= 12
+m_nTotGrabCount= 8
+m_nTotGrabTime= 22.37451
+m_nTotPosiCount= 8
+m_bTimeOutArrange= False
+m_bTImeOutScene= False
+m_fTimeTaken= 42.17411
+m_fTimeLookValid= 3.206782
+m_fTimeLookInvalid= 38.96732
+m_fMoveDistance= 8.969435
+m_nObstacleTouch= 0
+m_nFinBtnDown= 0
+
+2022/2/27:21-16-42.760: eArrange= TOY_HAMMER, Object_name= ToyHammer, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 뽕망치, 
+
+2022/2/27:21-16-42.761: eArrange= TOY_APPLE, Object_name= ToyApple, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 1.932734, nPosiCount = 1, kor_name= 장난감사과, 
+
+2022/2/27:21-16-42.761: eArrange= TOY_CAR1, Object_name= ToyCar1, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 2.768013, nPosiCount = 1, kor_name= 장난감차, 
+
+2022/2/27:21-16-42.761: eArrange= TOY_CAR2, Object_name= ToyCar2, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 자동차2, 
+
+2022/2/27:21-16-42.761: eArrange= TOY_GUN, Object_name= ToyGun, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 2.131727, nPosiCount = 1, kor_name= 장난감물총, 
+
+2022/2/27:21-16-42.762: eArrange= TOY_BALL, Object_name= ToyBall, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 공, 
+
+2022/2/27:21-16-42.762: eArrange= TOY_BUNNY, Object_name= ToyBunny, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 토끼, 
+
+2022/2/27:21-16-42.762: eArrange= BOOK1, Object_name= Book1, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 4.065922, nPosiCount = 1, kor_name= 녹색책1, 
+
+2022/2/27:21-16-42.762: eArrange= BOOK2, Object_name= Book2, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 1.991522, nPosiCount = 1, kor_name= 노란책, 
+
+2022/2/27:21-16-42.762: eArrange= BOOK3, Object_name= Book3, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 0.9887927, nPosiCount = 1, kor_name= 녹색책2, 
+
+2022/2/27:21-16-42.762: eArrange= PANTS1, Object_name= Pants1, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 바지1, 
+
+2022/2/27:21-16-42.763: eArrange= PANTS2, Object_name= Pants2, bCleanable= True, bPositioned= False, nGrabCount= 1, fGrabTime= 5.597506, nPosiCount = 1, kor_name= 바지2, 
+
+2022/2/27:21-16-42.763: eArrange= PANTS3, Object_name= Pants3, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 2.898298, nPosiCount = 1, kor_name= 노란반바지, 
+
+2022/2/27:21-27-50.113: m_nTotArrangeable= 13
+m_nTotCleanable= 8
+m_nTotCleaned= 8
+m_nTotPositoned= 13
+m_nTotGrabCount= 8
+m_nTotGrabTime= 33.02715
+m_nTotPosiCount= 8
+m_bTimeOutArrange= False
+m_bTImeOutScene= False
+m_fTimeTaken= 53.75325
+m_fTimeLookValid= 6.69939
+m_fTimeLookInvalid= 47.05388
+m_fMoveDistance= 13.66053
+m_nObstacleTouch= 0
+m_nFinBtnDown= 0
+
+2022/2/27:21-27-50.114: eArrange= TOY_HAMMER, Object_name= ToyHammer, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 뽕망치, 
+
+2022/2/27:21-27-50.115: eArrange= TOY_APPLE, Object_name= ToyApple, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 2.619192, nPosiCount = 1, kor_name= 장난감사과, 
+
+2022/2/27:21-27-50.115: eArrange= TOY_CAR1, Object_name= ToyCar1, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 2.493218, nPosiCount = 1, kor_name= 장난감차, 
+
+2022/2/27:21-27-50.115: eArrange= TOY_CAR2, Object_name= ToyCar2, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 자동차2, 
+
+2022/2/27:21-27-50.115: eArrange= TOY_GUN, Object_name= ToyGun, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 2.673199, nPosiCount = 1, kor_name= 장난감물총, 
+
+2022/2/27:21-27-50.115: eArrange= TOY_BALL, Object_name= ToyBall, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 공, 
+
+2022/2/27:21-27-50.116: eArrange= TOY_BUNNY, Object_name= ToyBunny, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 토끼, 
+
+2022/2/27:21-27-50.116: eArrange= BOOK1, Object_name= Book1, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 4.579797, nPosiCount = 1, kor_name= 녹색책1, 
+
+2022/2/27:21-27-50.116: eArrange= BOOK2, Object_name= Book2, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 2.90953, nPosiCount = 1, kor_name= 노란책, 
+
+2022/2/27:21-27-50.116: eArrange= BOOK3, Object_name= Book3, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 11.94649, nPosiCount = 1, kor_name= 녹색책2, 
+
+2022/2/27:21-27-50.116: eArrange= PANTS1, Object_name= Pants1, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 바지1, 
+
+2022/2/27:21-27-50.117: eArrange= PANTS2, Object_name= Pants2, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 3.270319, nPosiCount = 1, kor_name= 바지2, 
+
+2022/2/27:21-27-50.117: eArrange= PANTS3, Object_name= Pants3, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 2.535411, nPosiCount = 1, kor_name= 노란반바지, 
+
+2022/2/27:21-34-26.625: m_nTotArrangeable= 13
+m_nTotCleanable= 8
+m_nTotCleaned= 8
+m_nTotPositoned= 13
+m_nTotGrabCount= 9
+m_nTotGrabTime= 16.70784
+m_nTotPosiCount= 8
+m_bTimeOutArrange= False
+m_bTImeOutScene= False
+m_fTimeTaken= 41.71059
+m_fTimeLookValid= 7.861626
+m_fTimeLookInvalid= 33.84893
+m_fMoveDistance= 12.5997
+m_nObstacleTouch= 0
+m_nFinBtnDown= 0
+
+2022/2/27:21-34-26.626: eArrange= TOY_HAMMER, Object_name= ToyHammer, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 뽕망치, 
+
+2022/2/27:21-34-26.626: eArrange= TOY_APPLE, Object_name= ToyApple, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 1.963539, nPosiCount = 1, kor_name= 장난감사과, 
+
+2022/2/27:21-34-26.627: eArrange= TOY_CAR1, Object_name= ToyCar1, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 1.140993, nPosiCount = 1, kor_name= 장난감차, 
+
+2022/2/27:21-34-26.627: eArrange= TOY_CAR2, Object_name= ToyCar2, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 자동차2, 
+
+2022/2/27:21-34-26.627: eArrange= TOY_GUN, Object_name= ToyGun, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 1.072463, nPosiCount = 1, kor_name= 장난감물총, 
+
+2022/2/27:21-34-26.627: eArrange= TOY_BALL, Object_name= ToyBall, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 공, 
+
+2022/2/27:21-34-26.627: eArrange= TOY_BUNNY, Object_name= ToyBunny, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 토끼, 
+
+2022/2/27:21-34-26.628: eArrange= BOOK1, Object_name= Book1, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 3.340292, nPosiCount = 1, kor_name= 녹색책1, 
+
+2022/2/27:21-34-26.628: eArrange= BOOK2, Object_name= Book2, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 1.89143, nPosiCount = 1, kor_name= 노란책, 
+
+2022/2/27:21-34-26.628: eArrange= BOOK3, Object_name= Book3, bCleanable= True, bPositioned= True, nGrabCount= 2, fGrabTime= 2.630434, nPosiCount = 1, kor_name= 녹색책2, 
+
+2022/2/27:21-34-26.628: eArrange= PANTS1, Object_name= Pants1, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 바지1, 
+
+2022/2/27:21-34-26.628: eArrange= PANTS2, Object_name= Pants2, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 2.730206, nPosiCount = 1, kor_name= 바지2, 
+
+2022/2/27:21-34-26.628: eArrange= PANTS3, Object_name= Pants3, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 1.93848, nPosiCount = 1, kor_name= 노란반바지, 
+
+2022/2/27:21-45-39.171: m_nTotArrangeable= 13
+m_nTotCleanable= 8
+m_nTotCleaned= 8
+m_nTotPositoned= 13
+m_nTotGrabCount= 8
+m_nTotGrabTime= 19.99941
+m_nTotPosiCount= 8
+m_bTimeOutArrange= False
+m_bTImeOutScene= False
+m_fTimeTaken= 45.44202
+m_fTimeLookValid= 7.867206
+m_fTimeLookInvalid= 37.5748
+m_fMoveDistance= 19.67712
+m_nObstacleTouch= 0
+m_nFinBtnDown= 0
+
+2022/2/27:21-45-39.172: eArrange= TOY_HAMMER, Object_name= ToyHammer, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 뽕망치, 
+
+2022/2/27:21-45-39.173: eArrange= TOY_APPLE, Object_name= ToyApple, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 4.049474, nPosiCount = 1, kor_name= 장난감사과, 
+
+2022/2/27:21-45-39.173: eArrange= TOY_CAR1, Object_name= ToyCar1, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 1.195894, nPosiCount = 1, kor_name= 장난감차, 
+
+2022/2/27:21-45-39.173: eArrange= TOY_CAR2, Object_name= ToyCar2, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 자동차2, 
+
+2022/2/27:21-45-39.173: eArrange= TOY_GUN, Object_name= ToyGun, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 2.672524, nPosiCount = 1, kor_name= 장난감물총, 
+
+2022/2/27:21-45-39.174: eArrange= TOY_BALL, Object_name= ToyBall, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 공, 
+
+2022/2/27:21-45-39.174: eArrange= TOY_BUNNY, Object_name= ToyBunny, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 토끼, 
+
+2022/2/27:21-45-39.174: eArrange= BOOK1, Object_name= Book1, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 1.963629, nPosiCount = 1, kor_name= 녹색책1, 
+
+2022/2/27:21-45-39.174: eArrange= BOOK2, Object_name= Book2, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 1.364742, nPosiCount = 1, kor_name= 노란책, 
+
+2022/2/27:21-45-39.174: eArrange= BOOK3, Object_name= Book3, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 2.837905, nPosiCount = 1, kor_name= 녹색책2, 
+
+2022/2/27:21-45-39.174: eArrange= PANTS1, Object_name= Pants1, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 바지1, 
+
+2022/2/27:21-45-39.175: eArrange= PANTS2, Object_name= Pants2, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 2.909469, nPosiCount = 1, kor_name= 바지2, 
+
+2022/2/27:21-45-39.175: eArrange= PANTS3, Object_name= Pants3, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 3.005774, nPosiCount = 1, kor_name= 노란반바지, 
+
+2022/2/27:22-0-27.758: m_nTotArrangeable= 13
+m_nTotCleanable= 8
+m_nTotCleaned= 8
+m_nTotPositoned= 13
+m_nTotGrabCount= 10
+m_nTotGrabTime= 31.76749
+m_nTotPosiCount= 8
+m_bTimeOutArrange= False
+m_bTImeOutScene= False
+m_fTimeTaken= 64.86298
+m_fTimeLookValid= 6.058079
+m_fTimeLookInvalid= 58.80489
+m_fMoveDistance= 13.27832
+m_nObstacleTouch= 0
+m_nFinBtnDown= 0
+
+2022/2/27:22-0-27.759: eArrange= TOY_HAMMER, Object_name= ToyHammer, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 뽕망치, 
+
+2022/2/27:22-0-27.759: eArrange= TOY_APPLE, Object_name= ToyApple, bCleanable= True, bPositioned= True, nGrabCount= 3, fGrabTime= 6.373713, nPosiCount = 1, kor_name= 장난감사과, 
+
+2022/2/27:22-0-27.759: eArrange= TOY_CAR1, Object_name= ToyCar1, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 3.103508, nPosiCount = 1, kor_name= 장난감차, 
+
+2022/2/27:22-0-27.759: eArrange= TOY_CAR2, Object_name= ToyCar2, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 자동차2, 
+
+2022/2/27:22-0-27.760: eArrange= TOY_GUN, Object_name= ToyGun, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 3.269277, nPosiCount = 1, kor_name= 장난감물총, 
+
+2022/2/27:22-0-27.760: eArrange= TOY_BALL, Object_name= ToyBall, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 공, 
+
+2022/2/27:22-0-27.760: eArrange= TOY_BUNNY, Object_name= ToyBunny, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 토끼, 
+
+2022/2/27:22-0-27.760: eArrange= BOOK1, Object_name= Book1, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 2.964734, nPosiCount = 1, kor_name= 녹색책1, 
+
+2022/2/27:22-0-27.760: eArrange= BOOK2, Object_name= Book2, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 7.141558, nPosiCount = 1, kor_name= 노란책, 
+
+2022/2/27:22-0-27.761: eArrange= BOOK3, Object_name= Book3, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 3.705666, nPosiCount = 1, kor_name= 녹색책2, 
+
+2022/2/27:22-0-27.761: eArrange= PANTS1, Object_name= Pants1, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 바지1, 
+
+2022/2/27:22-0-27.761: eArrange= PANTS2, Object_name= Pants2, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 2.840003, nPosiCount = 1, kor_name= 바지2, 
+
+2022/2/27:22-0-27.761: eArrange= PANTS3, Object_name= Pants3, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 2.369036, nPosiCount = 1, kor_name= 노란반바지, 
+
+2022/2/27:22-4-26.216: m_nTotArrangeable= 13
+m_nTotCleanable= 8
+m_nTotCleaned= 8
+m_nTotPositoned= 13
+m_nTotGrabCount= 9
+m_nTotGrabTime= 15.58018
+m_nTotPosiCount= 8
+m_bTimeOutArrange= False
+m_bTImeOutScene= False
+m_fTimeTaken= 45.90159
+m_fTimeLookValid= 9.039897
+m_fTimeLookInvalid= 36.8617
+m_fMoveDistance= 10.3697
+m_nObstacleTouch= 0
+m_nFinBtnDown= 0
+
+2022/2/27:22-4-26.217: eArrange= TOY_HAMMER, Object_name= ToyHammer, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 뽕망치, 
+
+2022/2/27:22-4-26.217: eArrange= TOY_APPLE, Object_name= ToyApple, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 1.237972, nPosiCount = 1, kor_name= 장난감사과, 
+
+2022/2/27:22-4-26.217: eArrange= TOY_CAR1, Object_name= ToyCar1, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 3.967908, nPosiCount = 1, kor_name= 장난감차, 
+
+2022/2/27:22-4-26.217: eArrange= TOY_CAR2, Object_name= ToyCar2, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 자동차2, 
+
+2022/2/27:22-4-26.218: eArrange= TOY_GUN, Object_name= ToyGun, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 1.266188, nPosiCount = 1, kor_name= 장난감물총, 
+
+2022/2/27:22-4-26.218: eArrange= TOY_BALL, Object_name= ToyBall, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 공, 
+
+2022/2/27:22-4-26.218: eArrange= TOY_BUNNY, Object_name= ToyBunny, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 토끼, 
+
+2022/2/27:22-4-26.218: eArrange= BOOK1, Object_name= Book1, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 1.700307, nPosiCount = 1, kor_name= 녹색책1, 
+
+2022/2/27:22-4-26.218: eArrange= BOOK2, Object_name= Book2, bCleanable= True, bPositioned= True, nGrabCount= 2, fGrabTime= 3.579259, nPosiCount = 1, kor_name= 노란책, 
+
+2022/2/27:22-4-26.218: eArrange= BOOK3, Object_name= Book3, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 1.059911, nPosiCount = 1, kor_name= 녹색책2, 
+
+2022/2/27:22-4-26.219: eArrange= PANTS1, Object_name= Pants1, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 바지1, 
+
+2022/2/27:22-4-26.219: eArrange= PANTS2, Object_name= Pants2, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 1.600967, nPosiCount = 1, kor_name= 바지2, 
+
+2022/2/27:22-4-26.219: eArrange= PANTS3, Object_name= Pants3, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 1.167668, nPosiCount = 1, kor_name= 노란반바지, 
+
+2022/2/27:22-14-43.551: m_nTotArrangeable= 13
+m_nTotCleanable= 8
+m_nTotCleaned= 8
+m_nTotPositoned= 13
+m_nTotGrabCount= 8
+m_nTotGrabTime= 25.40658
+m_nTotPosiCount= 8
+m_bTimeOutArrange= False
+m_bTImeOutScene= False
+m_fTimeTaken= 47.71022
+m_fTimeLookValid= 8.800975
+m_fTimeLookInvalid= 38.90926
+m_fMoveDistance= 9.733438
+m_nObstacleTouch= 0
+m_nFinBtnDown= 0
+
+2022/2/27:22-14-43.553: eArrange= TOY_HAMMER, Object_name= ToyHammer, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 뽕망치, 
+
+2022/2/27:22-14-43.553: eArrange= TOY_APPLE, Object_name= ToyApple, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 2.49705, nPosiCount = 1, kor_name= 장난감사과, 
+
+2022/2/27:22-14-43.553: eArrange= TOY_CAR1, Object_name= ToyCar1, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 2.699634, nPosiCount = 1, kor_name= 장난감차, 
+
+2022/2/27:22-14-43.553: eArrange= TOY_CAR2, Object_name= ToyCar2, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 자동차2, 
+
+2022/2/27:22-14-43.554: eArrange= TOY_GUN, Object_name= ToyGun, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 2.840685, nPosiCount = 1, kor_name= 장난감물총, 
+
+2022/2/27:22-14-43.554: eArrange= TOY_BALL, Object_name= ToyBall, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 공, 
+
+2022/2/27:22-14-43.554: eArrange= TOY_BUNNY, Object_name= ToyBunny, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 토끼, 
+
+2022/2/27:22-14-43.554: eArrange= BOOK1, Object_name= Book1, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 1.79704, nPosiCount = 1, kor_name= 녹색책1, 
+
+2022/2/27:22-14-43.554: eArrange= BOOK2, Object_name= Book2, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 2.799809, nPosiCount = 1, kor_name= 노란책, 
+
+2022/2/27:22-14-43.555: eArrange= BOOK3, Object_name= Book3, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 5.404573, nPosiCount = 1, kor_name= 녹색책2, 
+
+2022/2/27:22-14-43.555: eArrange= PANTS1, Object_name= Pants1, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 바지1, 
+
+2022/2/27:22-14-43.555: eArrange= PANTS2, Object_name= Pants2, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 3.565765, nPosiCount = 1, kor_name= 바지2, 
+
+2022/2/27:22-14-43.555: eArrange= PANTS3, Object_name= Pants3, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 3.802024, nPosiCount = 1, kor_name= 노란반바지, 
+
+2022/2/28:14-30-16.451: m_nTotArrangeable= 13
+m_nTotCleanable= 8
+m_nTotCleaned= 8
+m_nTotPositoned= 13
+m_nTotGrabCount= 13
+m_nTotGrabTime= 30.94696
+m_nTotPosiCount= 8
+m_bTimeOutArrange= False
+m_bTImeOutScene= False
+m_fTimeTaken= 82.24799
+m_fTimeLookValid= 10.30161
+m_fTimeLookInvalid= 71.94653
+m_fMoveDistance= 13.82936
+m_nObstacleTouch= 0
+m_nFinBtnDown= 0
+
+2022/2/28:14-30-16.453: eArrange= TOY_HAMMER, Object_name= ToyHammer, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 뽕망치, 
+
+2022/2/28:14-30-16.454: eArrange= TOY_APPLE, Object_name= ToyApple, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 1.971151, nPosiCount = 1, kor_name= 장난감사과, 
+
+2022/2/28:14-30-16.454: eArrange= TOY_CAR1, Object_name= ToyCar1, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 3.414086, nPosiCount = 1, kor_name= 장난감차, 
+
+2022/2/28:14-30-16.454: eArrange= TOY_CAR2, Object_name= ToyCar2, bCleanable= False, bPositioned= True, nGrabCount= 1, fGrabTime= 3.972303, nPosiCount = 0, kor_name= 자동차2, 
+
+2022/2/28:14-30-16.454: eArrange= TOY_GUN, Object_name= ToyGun, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 4.139577, nPosiCount = 1, kor_name= 장난감물총, 
+
+2022/2/28:14-30-16.455: eArrange= TOY_BALL, Object_name= ToyBall, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 공, 
+
+2022/2/28:14-30-16.455: eArrange= TOY_BUNNY, Object_name= ToyBunny, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 토끼, 
+
+2022/2/28:14-30-16.455: eArrange= BOOK1, Object_name= Book1, bCleanable= True, bPositioned= True, nGrabCount= 4, fGrabTime= 8.608879, nPosiCount = 1, kor_name= 녹색책1, 
+
+2022/2/28:14-30-16.455: eArrange= BOOK2, Object_name= Book2, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 3.012555, nPosiCount = 1, kor_name= 노란책, 
+
+2022/2/28:14-30-16.455: eArrange= BOOK3, Object_name= Book3, bCleanable= True, bPositioned= True, nGrabCount= 2, fGrabTime= 2.749254, nPosiCount = 1, kor_name= 녹색책2, 
+
+2022/2/28:14-30-16.456: eArrange= PANTS1, Object_name= Pants1, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 바지1, 
+
+2022/2/28:14-30-16.456: eArrange= PANTS2, Object_name= Pants2, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 1.441148, nPosiCount = 1, kor_name= 바지2, 
+
+2022/2/28:14-30-16.456: eArrange= PANTS3, Object_name= Pants3, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 1.638006, nPosiCount = 1, kor_name= 노란반바지, 
+
+2022/2/28:14-39-6.335: m_nTotArrangeable= 13
+m_nTotCleanable= 8
+m_nTotCleaned= 8
+m_nTotPositoned= 13
+m_nTotGrabCount= 18
+m_nTotGrabTime= 25.83011
+m_nTotPosiCount= 8
+m_bTimeOutArrange= False
+m_bTImeOutScene= False
+m_fTimeTaken= 81.76917
+m_fTimeLookValid= 24.633
+m_fTimeLookInvalid= 57.1362
+m_fMoveDistance= 13.79944
+m_nObstacleTouch= 0
+m_nFinBtnDown= 0
+
+2022/2/28:14-39-6.336: eArrange= TOY_HAMMER, Object_name= ToyHammer, bCleanable= False, bPositioned= True, nGrabCount= 3, fGrabTime= 3.070806, nPosiCount = 0, kor_name= 뽕망치, 
+
+2022/2/28:14-39-6.336: eArrange= TOY_APPLE, Object_name= ToyApple, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 1.43356, nPosiCount = 1, kor_name= 장난감사과, 
+
+2022/2/28:14-39-6.336: eArrange= TOY_CAR1, Object_name= ToyCar1, bCleanable= True, bPositioned= True, nGrabCount= 2, fGrabTime= 3.004608, nPosiCount = 1, kor_name= 장난감차, 
+
+2022/2/28:14-39-6.336: eArrange= TOY_CAR2, Object_name= ToyCar2, bCleanable= False, bPositioned= True, nGrabCount= 1, fGrabTime= 1.168854, nPosiCount = 0, kor_name= 자동차2, 
+
+2022/2/28:14-39-6.337: eArrange= TOY_GUN, Object_name= ToyGun, bCleanable= True, bPositioned= True, nGrabCount= 4, fGrabTime= 5.50008, nPosiCount = 1, kor_name= 장난감물총, 
+
+2022/2/28:14-39-6.337: eArrange= TOY_BALL, Object_name= ToyBall, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 공, 
+
+2022/2/28:14-39-6.337: eArrange= TOY_BUNNY, Object_name= ToyBunny, bCleanable= False, bPositioned= True, nGrabCount= 1, fGrabTime= 2.937014, nPosiCount = 0, kor_name= 토끼, 
+
+2022/2/28:14-39-6.337: eArrange= BOOK1, Object_name= Book1, bCleanable= True, bPositioned= True, nGrabCount= 2, fGrabTime= 2.742138, nPosiCount = 1, kor_name= 녹색책1, 
+
+2022/2/28:14-39-6.337: eArrange= BOOK2, Object_name= Book2, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 1.628665, nPosiCount = 1, kor_name= 노란책, 
+
+2022/2/28:14-39-6.338: eArrange= BOOK3, Object_name= Book3, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 0.6684629, nPosiCount = 1, kor_name= 녹색책2, 
+
+2022/2/28:14-39-6.338: eArrange= PANTS1, Object_name= Pants1, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 바지1, 
+
+2022/2/28:14-39-6.338: eArrange= PANTS2, Object_name= Pants2, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 1.838082, nPosiCount = 1, kor_name= 바지2, 
+
+2022/2/28:14-39-6.338: eArrange= PANTS3, Object_name= Pants3, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 1.837847, nPosiCount = 1, kor_name= 노란반바지, 
+
+2022/2/28:14-42-21.451: m_nTotArrangeable= 13
+m_nTotCleanable= 8
+m_nTotCleaned= 8
+m_nTotPositoned= 13
+m_nTotGrabCount= 17
+m_nTotGrabTime= 34.65188
+m_nTotPosiCount= 8
+m_bTimeOutArrange= False
+m_bTImeOutScene= False
+m_fTimeTaken= 82.34912
+m_fTimeLookValid= 14.02556
+m_fTimeLookInvalid= 68.3236
+m_fMoveDistance= 16.62275
+m_nObstacleTouch= 0
+m_nFinBtnDown= 0
+
+2022/2/28:14-42-21.452: eArrange= TOY_HAMMER, Object_name= ToyHammer, bCleanable= False, bPositioned= True, nGrabCount= 1, fGrabTime= 2.132627, nPosiCount = 0, kor_name= 뽕망치, 
+
+2022/2/28:14-42-21.452: eArrange= TOY_APPLE, Object_name= ToyApple, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 2.004817, nPosiCount = 1, kor_name= 장난감사과, 
+
+2022/2/28:14-42-21.452: eArrange= TOY_CAR1, Object_name= ToyCar1, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 0.9611126, nPosiCount = 1, kor_name= 장난감차, 
+
+2022/2/28:14-42-21.452: eArrange= TOY_CAR2, Object_name= ToyCar2, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 자동차2, 
+
+2022/2/28:14-42-21.453: eArrange= TOY_GUN, Object_name= ToyGun, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 3.508632, nPosiCount = 1, kor_name= 장난감물총, 
+
+2022/2/28:14-42-21.453: eArrange= TOY_BALL, Object_name= ToyBall, bCleanable= False, bPositioned= True, nGrabCount= 6, fGrabTime= 8.072968, nPosiCount = 0, kor_name= 공, 
+
+2022/2/28:14-42-21.453: eArrange= TOY_BUNNY, Object_name= ToyBunny, bCleanable= False, bPositioned= True, nGrabCount= 1, fGrabTime= 2.074209, nPosiCount = 0, kor_name= 토끼, 
+
+2022/2/28:14-42-21.453: eArrange= BOOK1, Object_name= Book1, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 5.066589, nPosiCount = 1, kor_name= 녹색책1, 
+
+2022/2/28:14-42-21.453: eArrange= BOOK2, Object_name= Book2, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 1.780057, nPosiCount = 1, kor_name= 노란책, 
+
+2022/2/28:14-42-21.454: eArrange= BOOK3, Object_name= Book3, bCleanable= True, bPositioned= True, nGrabCount= 2, fGrabTime= 1.905439, nPosiCount = 1, kor_name= 녹색책2, 
+
+2022/2/28:14-42-21.454: eArrange= PANTS1, Object_name= Pants1, bCleanable= False, bPositioned= True, nGrabCount= 0, fGrabTime= 0, nPosiCount = 0, kor_name= 바지1, 
+
+2022/2/28:14-42-21.454: eArrange= PANTS2, Object_name= Pants2, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 5.404527, nPosiCount = 1, kor_name= 바지2, 
+
+2022/2/28:14-42-21.454: eArrange= PANTS3, Object_name= Pants3, bCleanable= True, bPositioned= True, nGrabCount= 1, fGrabTime= 1.740898, nPosiCount = 1, kor_name= 노란반바지, 
+

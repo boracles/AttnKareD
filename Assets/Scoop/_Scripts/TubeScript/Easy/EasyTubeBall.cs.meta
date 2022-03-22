@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c909556d8810f0248888a01273ef58a9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tubeBall1: {instanceID: 0}
+  - tubeBall2: {instanceID: 0}
+  - tubeBall3: {instanceID: 0}
+  - popups: {fileID: 5632175639143357477, guid: b4f16f086fb89f249b1b9a2825769128,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Input User Info.unity
+    guid: 870f92bc21c5b1046814b78752305670
+  - enabled: 1
+    path: Assets/Scenes/DoorLock.unity
+    guid: f28b7265b056a9447a44247d29957350
+  - enabled: 1
+    path: Assets/Scenes/E_Schedule02.unity
+    guid: 92187776eeae6cc4eab9216af49d4870
+  - enabled: 1
+    path: Assets/Scenes/BagPacking2X2_Young.unity
+    guid: ded3ccb4fa11e234ebbdb0688e90dded
+  - enabled: 1
+    path: Assets/Scenes/Scoop_tube_easy.unity
+    guid: 891b1f6beb288104c8629f3f7f34e168
+  - enabled: 1
+    path: Assets/Scenes/CleanUpMyRoom_2x2.unity
+    guid: dfb8b91e94b47e84c9111188ee70b1ce
+  - enabled: 1
+    path: Assets/Scenes/PlayPaddle.unity
+    guid: ee3316f3237509549a76a05d89ba1a27
+  - enabled: 1
+    path: Assets/Scenes/BagPacking2X2.unity
+    guid: 8cb954d91fcf05846bec63cf6f9d4345
+  - enabled: 1
+    path: Assets/Scenes/Scoop_tube.unity
+    guid: 05bc9ff7755e601459f671ab17b12633
+  - enabled: 1
+    path: Assets/Scenes/NumMatch.unity
+    guid: 00a1f8c3741c50747b2ff3f6787ae1a8
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 5f0e87aa27ee06248914d464267123b3
+  - enabled: 1
+    path: Assets/Scenes/OPENEND.unity
+    guid: 24220f6d759917d49ac99362df1e9fc8
+  - enabled: 1
+    path: Assets/Scenes/Loading.unity
+    guid: 87f79aa6ca09f482d99ccc8b5b2aaa43
+  - enabled: 1
+    path: Assets/Scenes/Ending.unity
+    guid: cb3aa7a3f1920f64d803096547a82907
+  - enabled: 1
+    path: Assets/Joon/0.0. NewPaddle/1. Scene/NewPaddle.unity
+    guid: 758d9a3c06afaea48bac0b0d7687d8cb
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: b38f2304a0e8f4644834aca6605240cd,
+      type: 2}
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: dce37277473a2b545824e9c023497efa,
+      type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: 4fa593deec230034fba77fcb955b45c4,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 0c342c4d7c9e78d48a56e3d43aada860,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: eda29a844c8c47d4b93cae65a55d8067,
+      type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 1f90e5acedb9c2147b3ab9b3571d6fdb,
+      type: 2}
