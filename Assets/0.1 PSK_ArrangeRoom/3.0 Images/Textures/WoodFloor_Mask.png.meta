@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: e7e26e8125f736f42b13f1da0e819ada
+guid: 35add42cc3e981e47b2fc5700997a41f
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -79,7 +79,7 @@ TextureImporter:
     buildTarget: Standalone
     maxTextureSize: 1024
     resizeAlgorithm: 0
-    textureFormat: 12
+    textureFormat: 10
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -91,7 +91,7 @@ TextureImporter:
     buildTarget: Windows Store Apps
     maxTextureSize: 1024
     resizeAlgorithm: 0
-    textureFormat: 12
+    textureFormat: 10
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -103,7 +103,7 @@ TextureImporter:
     buildTarget: Android
     maxTextureSize: 1024
     resizeAlgorithm: 0
-    textureFormat: 47
+    textureFormat: 34
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -115,7 +115,7 @@ TextureImporter:
     buildTarget: WebGL
     maxTextureSize: 1024
     resizeAlgorithm: 0
-    textureFormat: 12
+    textureFormat: 10
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
