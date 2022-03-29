@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: 4b4d1c6ffb7435041b9b6f549cf75768
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 1827226128182048838
+    second: Take 001
+  - first:
+      74: 4113912638568125004
+    second: frame|frame|Take 001|BaseLayer
+  - first:
+      74: 2933754695490036161
+    second: frame|window A|Take 001|BaseLayer
+  - first:
+      74: 2941600459418628871
+    second: frame|window B|Take 001|BaseLayer
+  - first:
+      74: 8269985583044214450
+    second: window B|frame|Take 001|BaseLayer
+  - first:
+      74: -7215161685691172586
+    second: window B|window A|Take 001|BaseLayer
+  - first:
+      74: -2521408298801024629
+    second: window B|window B|Take 001|BaseLayer
+  - first:
+      74: 2567635196687201256
+    second: window A|frame|Take 001|BaseLayer
+  - first:
+      74: 575875926900884749
+    second: window A|window A|Take 001|BaseLayer
+  - first:
+      74: 8386667003971555319
+    second: window A|window B|Take 001|BaseLayer
+  - first:
+      74: 6533709087748457805
+    second: frame|frame.001|frame|frame|Take 001|BaseLayer|frame|frame|Take 001|B
+  - first:
+      74: 1294555686456201825
+    second: frame|frame.001|frame|window A|Take 001|BaseLayer|frame|window A|Take
+  - first:
+      74: -1735135637361121350
+    second: frame|frame.001|frame|window B|Take 001|BaseLayer|frame|window B|Take
+  - first:
+      74: -337065592272076370
+    second: frame|window A.001|window A|frame|Take 001|BaseLayer|window A|frame|T
+  - first:
+      74: 2462547682397354461
+    second: frame|window A.001|window A|window A|Take 001|BaseLayer|window A|wind
+  - first:
+      74: -5270538220667544613
+    second: frame|window A.001|window A|window B|Take 001|BaseLayer|window A|wind
+  - first:
+      74: 2142329684070153736
+    second: frame|window B.001|window B|frame|Take 001|BaseLayer|window B|frame|T
+  - first:
+      74: 3123384285244632360
+    second: frame|window B.001|window B|window A|Take 001|BaseLayer|window B|wind
+  - first:
+      74: 266072295301385615
+    second: frame|window B.001|window B|window B|Take 001|BaseLayer|window B|wind
+  - first:
+      74: 7059817248553074293
+    second: window B|frame.001|frame|frame|Take 001|BaseLayer|frame|frame|Take 001|B
+  - first:
+      74: 7764203015269611121
+    second: window B|frame.001|frame|window A|Take 001|BaseLayer|frame|window A|Take
+  - first:
+      74: 8787977955039245926
+    second: window B|frame.001|frame|window B|Take 001|BaseLayer|frame|window B|Take
+  - first:
+      74: 7932334314633644008
+    second: window B|window A.001|window A|frame|Take 001|BaseLayer|window A|frame|T
+  - first:
+      74: 9144048381619730329
+    second: window B|window A.001|window A|window A|Take 001|BaseLayer|window A|wind
+  - first:
+      74: 6881616602915712186
+    second: window B|window A.001|window A|window B|Take 001|BaseLayer|window A|wind
+  - first:
+      74: -8647956427717360523
+    second: window B|window B.001|window B|frame|Take 001|BaseLayer|window B|frame|T
+  - first:
+      74: 8433195477884063135
+    second: window B|window B.001|window B|window A|Take 001|BaseLayer|window B|wind
+  - first:
+      74: 3574837855017789540
+    second: window B|window B.001|window B|window B|Take 001|BaseLayer|window B|wind
+  - first:
+      74: -7265823407143173209
+    second: window A|frame.001|frame|frame|Take 001|BaseLayer|frame|frame|Take 001|B
+  - first:
+      74: 5782127188949499608
+    second: window A|frame.001|frame|window A|Take 001|BaseLayer|frame|window A|Take
+  - first:
+      74: 193261790812617260
+    second: window A|frame.001|frame|window B|Take 001|BaseLayer|frame|window B|Take
+  - first:
+      74: 1235287815226778195
+    second: window A|window A.001|window A|frame|Take 001|BaseLayer|window A|frame|T
+  - first:
+      74: 4037071800718705162
+    second: window A|window A.001|window A|window A|Take 001|BaseLayer|window A|wind
+  - first:
+      74: 3796745106183892188
+    second: window A|window A.001|window A|window B|Take 001|BaseLayer|window A|wind
+  - first:
+      74: -3939541507579311741
+    second: window A|window B.001|window B|frame|Take 001|BaseLayer|window B|frame|T
+  - first:
+      74: 3118414697830116127
+    second: window A|window B.001|window B|window A|Take 001|BaseLayer|window B|wind
+  - first:
+      74: -8887602972708792644
+    second: window A|window B.001|window B|window B|Take 001|BaseLayer|window B|wind
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.47
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.47
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
