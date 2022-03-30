@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 5a9d9a43f06adf741a41ad4e2cc2b241
+guid: c7cdfbdb17fd2734a8f602fa1fffd229
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable:
@@ -17,7 +17,7 @@ ModelImporter:
     second: //RootNode
   - first:
       43: 4300000
-    second: SM_Prop_Computer_Screen_01
+    second: SM_Item_Cup_01
   - first:
       95: 9500000
     second: //RootNode
@@ -52,7 +52,7 @@ ModelImporter:
     isReadable: 0
   meshes:
     lODScreenPercentages: []
-    globalScale: 1.3
+    globalScale: 105
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
@@ -73,7 +73,7 @@ ModelImporter:
     maxBonesPerVertex: 4
     minBoneWeight: 0.001
     meshOptimizationFlags: -1
-    indexFormat: 1
+    indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15
     secondaryUVHardAngle: 88
@@ -84,7 +84,7 @@ ModelImporter:
     useFileScale: 1
   tangentSpace:
     normalSmoothAngle: 5
-    normalImportMode: 1
+    normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 0
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
@@ -103,7 +103,7 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 1.3
+    globalScale: 105
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
