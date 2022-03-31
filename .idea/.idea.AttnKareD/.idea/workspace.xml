@@ -9,6 +9,7 @@
       <change beforePath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/2.0 Scenes/ArrangeRoom.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/2.0 Scenes/ArrangeRoom.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/5.0 Prefabs/Globe.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/5.0 Prefabs/Globe.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/5.0 Prefabs/TableLamp.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/5.0 Prefabs/TableLamp.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/CleanUpMyRoom/room_arrangement_01.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/CleanUpMyRoom/room_arrangement_01.fbx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +71,7 @@
       <workItem from="1647943568432" duration="6803000" />
       <workItem from="1648434524723" duration="1162000" />
       <workItem from="1648564496283" duration="2046000" />
-      <workItem from="1648638046449" duration="11031000" />
+      <workItem from="1648638046449" duration="11045000" />
     </task>
     <servers />
   </component>
