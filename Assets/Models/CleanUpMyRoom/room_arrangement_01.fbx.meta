@@ -8,73 +8,62 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: 28
-    second: {fileID: 7792257809336480246, guid: 6e15dd1c597de774b99fb14bf1e1b607,
-      type: 3}
+    second: {instanceID: 0}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: bag_01
-    second: {fileID: -5260618169348603978, guid: 6e15dd1c597de774b99fb14bf1e1b607,
-      type: 3}
+    second: {instanceID: 0}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: bag_02
-    second: {fileID: -3599097044331763755, guid: 6e15dd1c597de774b99fb14bf1e1b607,
-      type: 3}
+    second: {instanceID: 0}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: bag_03
-    second: {fileID: -672179568698293103, guid: 6e15dd1c597de774b99fb14bf1e1b607,
-      type: 3}
+    second: {instanceID: 0}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: bag_04
-    second: {fileID: 562966330372886810, guid: 6e15dd1c597de774b99fb14bf1e1b607, type: 3}
+    second: {instanceID: 0}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: basket_01
-    second: {fileID: -8228589642063811446, guid: 6e15dd1c597de774b99fb14bf1e1b607,
-      type: 3}
+    second: {instanceID: 0}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: book_01
-    second: {fileID: -4470513972896209863, guid: 6e15dd1c597de774b99fb14bf1e1b607,
-      type: 3}
+    second: {instanceID: 0}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: book_02
-    second: {fileID: 4158084358782877612, guid: 6e15dd1c597de774b99fb14bf1e1b607,
-      type: 3}
+    second: {instanceID: 0}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: book_03
-    second: {fileID: 1490697135743942913, guid: 6e15dd1c597de774b99fb14bf1e1b607,
-      type: 3}
+    second: {instanceID: 0}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: box_01
-    second: {fileID: -4981782545458775671, guid: 6e15dd1c597de774b99fb14bf1e1b607,
-      type: 3}
+    second: {instanceID: 0}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: box_02
-    second: {fileID: 3037570872229388017, guid: 6e15dd1c597de774b99fb14bf1e1b607,
-      type: 3}
+    second: {instanceID: 0}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: cabinet_01
-    second: {fileID: 4609946251097404426, guid: 6e15dd1c597de774b99fb14bf1e1b607,
-      type: 3}
+    second: {instanceID: 0}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -102,7 +91,7 @@ ModelImporter:
     extraExposedTransformPaths: []
     extraUserProperties: []
     clipAnimations: []
-    isReadable: 0
+    isReadable: 1
   meshes:
     lODScreenPercentages: []
     globalScale: 1
@@ -116,7 +105,7 @@ ModelImporter:
     importLights: 1
     fileIdsGeneration: 2
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     keepQuads: 0
     weldVertices: 1
