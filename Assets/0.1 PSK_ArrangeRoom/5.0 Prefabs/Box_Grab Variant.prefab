@@ -10,7 +10,12 @@ PrefabInstance:
     - target: {fileID: 2595979672459051563, guid: 0ff96487bfeb91c4ea29b52136b811f6,
         type: 3}
       propertyPath: m_Name
-      value: Box
+      value: Box_Grab Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 2595979672459051563, guid: 0ff96487bfeb91c4ea29b52136b811f6,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2599330865947178947, guid: 0ff96487bfeb91c4ea29b52136b811f6,
         type: 3}
