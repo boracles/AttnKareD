@@ -6,20 +6,45 @@
   <component name="ChangeListManager">
     <list default="true" id="767528d5-8ab3-4f0f-a9a9-3ac97555d4ce" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.AttnKareD/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AttnKareD/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/0.0 PSK_CleanRoom/2.0 Scenes/New Lighting Settings.lighting" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/0.0 PSK_CleanRoom/2.0 Scenes/New Lighting Settings.lighting" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/0.0 PSK_CleanRoom/2.0 Scenes/CleanMyRoom.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/0.0 PSK_CleanRoom/2.0 Scenes/CleanMyRoom.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/2.0 Scenes/ArrangeRoom.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/2.0 Scenes/ArrangeRoom.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/2.0 Scenes/ArrangeRoom/LightingData.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/2.0 Scenes/ArrangeRoom/LightingData.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/2.0 Scenes/ArrangeRoom/Lightmap-0_comp_dir.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/2.0 Scenes/ArrangeRoom/Lightmap-0_comp_dir.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/2.0 Scenes/ArrangeRoom/Lightmap-0_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/2.0 Scenes/ArrangeRoom/Lightmap-0_comp_light.exr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/2.0 Scenes/ArrangeRoom/ReflectionProbe-0.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/2.0 Scenes/ArrangeRoom/ReflectionProbe-0.exr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/2.0 Scenes/ArrangeRoom/Lightmap-1_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/2.0 Scenes/ArrangeRoom/Lightmap-1_comp_light.exr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/3.0 Images/Materials/Apple.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/3.0 Images/Materials/Apple.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/3.0 Images/Materials/GameController.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/3.0 Images/Materials/GameController.mat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/3.0 Images/Materials/Plant.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/3.0 Images/Materials/Plant.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/4.0 Models/Closet.FBX.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/4.0 Models/Closet.FBX.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/5.0 Prefabs/Clothcloset.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/5.0 Prefabs/Clothcloset.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/3.0 Images/Textures/Apple_Alb.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/3.0 Images/Textures/Apple_Alb.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/3.0 Images/Textures/Apple_Met.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/3.0 Images/Textures/Apple_Met.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/3.0 Images/Textures/Apple_Nor.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/3.0 Images/Textures/Apple_Nor.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/3.0 Images/Textures/Book_Met.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/3.0 Images/Textures/Book_Met.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/3.0 Images/Textures/Controller_Alb.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/3.0 Images/Textures/Controller_Alb.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/3.0 Images/Textures/Controller_Emi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/3.0 Images/Textures/Controller_Emi.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/3.0 Images/Textures/Controller_MetAO.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/3.0 Images/Textures/Controller_MetAO.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/3.0 Images/Textures/Controller_Nor.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/3.0 Images/Textures/Controller_Nor.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/3.0 Images/Textures/Figurine_AO.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/3.0 Images/Textures/Figurine_AO.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/3.0 Images/Textures/Figurine_Alb.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/3.0 Images/Textures/Figurine_Alb.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/3.0 Images/Textures/Figurine_Met.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/3.0 Images/Textures/Figurine_Met.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/3.0 Images/Textures/Figurine_Nor.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/3.0 Images/Textures/Figurine_Nor.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/3.0 Images/Textures/Glass_Alb.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/3.0 Images/Textures/Glass_Alb.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/3.0 Images/Textures/WoodBookShelf_Normal.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/3.0 Images/Textures/WoodBookShelf_Normal.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/4.0 Models/Carpet.FBX.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/4.0 Models/Carpet.FBX.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/4.0 Models/Trash.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/4.0 Models/Trash.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/5.0 Prefabs/Sidetable2.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/5.0 Prefabs/Sidetable2.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/New LightmapParameters.giparams" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/New LightmapParameters.giparams" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PolygonPrototype/Models/SM_Veh_Car_Sports_01.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PolygonPrototype/Models/SM_Veh_Car_Sports_01.fbx.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TobiiXR/Examples/Social_Example/Characters/2DCharacter/Materials/White.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TobiiXR/Examples/Social_Example/Characters/2DCharacter/Materials/White.mat" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../My project (1)/Library/PackageCache/com.unity.render-pipelines.high-definition@4.10.0-preview/Runtime/Sky/SkySettings.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -79,7 +104,8 @@
       <workItem from="1648638046449" duration="15558000" />
       <workItem from="1648793721210" duration="4000" />
       <workItem from="1648793767397" duration="33000" />
-      <workItem from="1648797341958" duration="3104000" />
+      <workItem from="1648797341958" duration="4316000" />
+      <workItem from="1648875981866" duration="595000" />
     </task>
     <servers />
   </component>
