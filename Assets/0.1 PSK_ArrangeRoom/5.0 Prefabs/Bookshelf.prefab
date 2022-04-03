@@ -707,6 +707,17 @@ PrefabInstance:
       propertyPath: m_Name
       value: ToyCar
       objectReference: {fileID: 0}
+    - target: {fileID: 8129137919033999168, guid: d7323fad2431a04489ba9b648b4620f5,
+        type: 3}
+      propertyPath: m_LightmapParameters
+      value: 
+      objectReference: {fileID: 111300000, guid: cad71e2df412d5b478514e7a3cee4ebe,
+        type: 2}
+    - target: {fileID: 8129137919033999168, guid: d7323fad2431a04489ba9b648b4620f5,
+        type: 3}
+      propertyPath: m_ReflectionProbeUsage
+      value: 2
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d7323fad2431a04489ba9b648b4620f5, type: 3}
 --- !u!4 &3224996290555816526 stripped
