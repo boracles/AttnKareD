@@ -332,6 +332,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 371446849403086752}
     m_Modifications:
+    - target: {fileID: 7219625493198555538, guid: 9cb8e4ea03edad44c98fcb2bcfe34880,
+        type: 3}
+      propertyPath: m_ReflectionProbeUsage
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 8393143992965640957, guid: 9cb8e4ea03edad44c98fcb2bcfe34880,
         type: 3}
       propertyPath: m_RootOrder
@@ -1048,6 +1053,17 @@ PrefabInstance:
       propertyPath: m_Name
       value: Book_5 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1397088858041868316, guid: cb55ae747816eed49b23bcec0d68b1a6,
+        type: 3}
+      propertyPath: m_LightmapParameters
+      value: 
+      objectReference: {fileID: 111300000, guid: cad71e2df412d5b478514e7a3cee4ebe,
+        type: 2}
+    - target: {fileID: 1397088858041868316, guid: cb55ae747816eed49b23bcec0d68b1a6,
+        type: 3}
+      propertyPath: m_ReflectionProbeUsage
+      value: 2
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cb55ae747816eed49b23bcec0d68b1a6, type: 3}
 --- !u!4 &7352678711323858836 stripped
@@ -1618,6 +1634,17 @@ PrefabInstance:
       propertyPath: m_Name
       value: StorageBox (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 3804298997842026316, guid: cd63d419569bd95449cd23fcd25d493d,
+        type: 3}
+      propertyPath: m_LightmapParameters
+      value: 
+      objectReference: {fileID: 111300000, guid: cad71e2df412d5b478514e7a3cee4ebe,
+        type: 2}
+    - target: {fileID: 3804298997842026316, guid: cd63d419569bd95449cd23fcd25d493d,
+        type: 3}
+      propertyPath: m_ReflectionProbeUsage
+      value: 2
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cd63d419569bd95449cd23fcd25d493d, type: 3}
 --- !u!4 &6858584659651005256 stripped
@@ -2113,6 +2140,17 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 371446850813087609}
     m_Modifications:
+    - target: {fileID: 1689013072721235534, guid: 18bd74f084ea2f64c859f590d028a9ca,
+        type: 3}
+      propertyPath: m_LightmapParameters
+      value: 
+      objectReference: {fileID: 111300000, guid: cad71e2df412d5b478514e7a3cee4ebe,
+        type: 2}
+    - target: {fileID: 1689013072721235534, guid: 18bd74f084ea2f64c859f590d028a9ca,
+        type: 3}
+      propertyPath: m_ReflectionProbeUsage
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 3667170653606488615, guid: 18bd74f084ea2f64c859f590d028a9ca,
         type: 3}
       propertyPath: m_RootOrder
