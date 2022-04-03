@@ -7,27 +7,24 @@
     <list default="true" id="767528d5-8ab3-4f0f-a9a9-3ac97555d4ce" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.AttnKareD/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AttnKareD/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/0.0 PSK_CleanRoom/2.0 Scenes/CleanMyRoom.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/0.0 PSK_CleanRoom/2.0 Scenes/CleanMyRoom.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/0.0 PSK_CleanRoom/2.0 Scenes/CleanMyRoom/LightingData.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/0.0 PSK_CleanRoom/2.0 Scenes/CleanMyRoom/LightingData.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/0.0 PSK_CleanRoom/2.0 Scenes/CleanMyRoom/Lightmap-0_comp_dir.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/0.0 PSK_CleanRoom/2.0 Scenes/CleanMyRoom/Lightmap-0_comp_dir.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/0.0 PSK_CleanRoom/2.0 Scenes/CleanMyRoom/Lightmap-0_comp_light.exr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/0.0 PSK_CleanRoom/2.0 Scenes/CleanMyRoom/Lightmap-0_comp_light.exr.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/0.0 PSK_CleanRoom/2.0 Scenes/CleanMyRoom/Lightmap-1_comp_dir.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/0.0 PSK_CleanRoom/2.0 Scenes/CleanMyRoom/Lightmap-1_comp_dir.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/0.0 PSK_CleanRoom/2.0 Scenes/CleanMyRoom/Lightmap-1_comp_light.exr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/0.0 PSK_CleanRoom/2.0 Scenes/CleanMyRoom/Lightmap-1_comp_light.exr.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/0.0 PSK_CleanRoom/2.0 Scenes/CleanMyRoom/ReflectionProbe-0.exr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/0.0 PSK_CleanRoom/2.0 Scenes/CleanMyRoom/ReflectionProbe-0.exr.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/0.0 PSK_CleanRoom/2.0 Scenes/New Lighting Settings.lighting" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/0.0 PSK_CleanRoom/2.0 Scenes/New Lighting Settings.lighting" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/5.0 Prefabs/Book_3.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/5.0 Prefabs/Book_3.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/2.0 Scenes/ArrangeRoom.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/2.0 Scenes/ArrangeRoom.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/2.0 Scenes/ArrangeRoom/LightingData.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/2.0 Scenes/ArrangeRoom/LightingData.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/2.0 Scenes/ArrangeRoom/Lightmap-0_comp_dir.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/2.0 Scenes/ArrangeRoom/Lightmap-0_comp_dir.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/2.0 Scenes/ArrangeRoom/Lightmap-0_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/2.0 Scenes/ArrangeRoom/Lightmap-0_comp_light.exr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/2.0 Scenes/ArrangeRoom/Lightmap-1_comp_dir.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/2.0 Scenes/ArrangeRoom/Lightmap-1_comp_dir.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/2.0 Scenes/ArrangeRoom/Lightmap-1_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/2.0 Scenes/ArrangeRoom/Lightmap-1_comp_light.exr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/2.0 Scenes/ArrangeRoom/Lightmap-2_comp_dir.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/2.0 Scenes/ArrangeRoom/Lightmap-2_comp_dir.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/2.0 Scenes/ArrangeRoom/Lightmap-2_comp_light.exr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/2.0 Scenes/ArrangeRoom/Lightmap-2_comp_light.exr.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/2.0 Scenes/ArrangeRoom/New Scene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/2.0 Scenes/ArrangeRoom/New Scene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/2.0 Scenes/ArrangeRoom/ReflectionProbe-0.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/2.0 Scenes/ArrangeRoom/ReflectionProbe-0.exr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/3.0 Images/Materials/Carpet.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/3.0 Images/Materials/Carpet.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/5.0 Prefabs/Book_1.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/5.0 Prefabs/Book_1.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/5.0 Prefabs/Book_5.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/5.0 Prefabs/Book_5.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/5.0 Prefabs/Bookshelf.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/0.1 PSK_ArrangeRoom/5.0 Prefabs/Bookshelf.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/0.2  PSK_CleanUp/2.0 Scenes/CleanUp.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/0.2  PSK_CleanUp/2.0 Scenes/CleanUp.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/0.2  PSK_CleanUp/2.0 Scenes/CleanUp/LightingData.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/0.2  PSK_CleanUp/2.0 Scenes/CleanUp/LightingData.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/0.2  PSK_CleanUp/2.0 Scenes/CleanUp/Lightmap-0_comp_dir.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/0.2  PSK_CleanUp/2.0 Scenes/CleanUp/Lightmap-0_comp_dir.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/0.2  PSK_CleanUp/2.0 Scenes/CleanUp/Lightmap-0_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/0.2  PSK_CleanUp/2.0 Scenes/CleanUp/Lightmap-0_comp_light.exr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/0.2  PSK_CleanUp/2.0 Scenes/CleanUp/Lightmap-1_comp_dir.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/0.2  PSK_CleanUp/2.0 Scenes/CleanUp/Lightmap-1_comp_dir.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/0.2  PSK_CleanUp/2.0 Scenes/CleanUp/Lightmap-1_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/0.2  PSK_CleanUp/2.0 Scenes/CleanUp/Lightmap-1_comp_light.exr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/0.2  PSK_CleanUp/2.0 Scenes/CleanUp/ReflectionProbe-0.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/0.2  PSK_CleanUp/2.0 Scenes/CleanUp/ReflectionProbe-0.exr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/New LightmapParameters2.giparams" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/New LightmapParameters2.giparams" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +94,7 @@
       <workItem from="1648793767397" duration="33000" />
       <workItem from="1648797341958" duration="4316000" />
       <workItem from="1648875981866" duration="7655000" />
-      <workItem from="1648960903808" duration="633000" />
+      <workItem from="1648960903808" duration="1254000" />
     </task>
     <servers />
   </component>
